@@ -93,3 +93,5 @@ coverage*.info
 # Nuget personal access tokens and Credentials
 nuget.config
 
+config.bat
+node_modules
